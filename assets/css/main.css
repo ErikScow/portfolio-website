@@ -8604,13 +8604,3 @@ input, select, textarea {
 
 
 
-.image #great-idea{
-	overflow-y: scroll !important;
-	overflow-x: scroll !important;
-	height: 100% !important;
-}
-
-#great-idea-img{
-	height:1388px !important;
-	width: 1024px !important;
-}
